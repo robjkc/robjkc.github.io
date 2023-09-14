@@ -1,6 +1,9 @@
 # Lead Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills
+- Languages - Go, Java, C#, C++, TypeScript
+- Technologies – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
+- Cloud – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
