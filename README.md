@@ -6,31 +6,23 @@
 - **Cloud** – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
 
 ## Experience
-**Lead Software Engineer** at Digital Monitoring Products | Springfield, MO | Feb 2020 - Present 
+**Lead Software Engineer** at Digital Monitoring Products | Feb 2020 - Present 
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
 
-**Senior Software Engineer** at O’Reilly Auto Parts | Springfield, MO | Oct 2003 – Feb 2020
+**Senior Software Engineer** at O’Reilly Auto Parts | Oct 2003 – Feb 2020
 - Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
 - Creation of an advanced catalog system used to search and display millions o fautomotive parts. 
 
-**Independent iPhone Developer** at RetainIt | Springfield, MO | Oct 2013 – Jan 2016
+**Independent iPhone Developer** at RetainIt | Oct 2013 – Jan 2016
 - Designed and developed a successful iPhone application, RetainIt - Organize & Todo, featured several
 times in the top 100 productivity apps. 
 
-**President/Lead Developer** at Playfantasy.com | Springfield, MO | Nov 2001– Jan 2004 
+**President/Lead Developer** at Playfantasy.com | Nov 2001– Jan 2004 
 - Design and development of a multi-user fantasy football website. 
 
-**Senior Software Engineer** at Sprint Corp | Kansas City, MO | Jan 2000 – Nov 2001
+**Senior Software Engineer** at Sprint Corp | Jan 2000 – Nov 2001
 - Design and development of distributed telecommunication applications. 
-
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
