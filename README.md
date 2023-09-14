@@ -1,24 +1,28 @@
 # Lead Software Engineer
 
 ## Skills
-- Languages - Go, Java, C#, C++, TypeScript
-- Technologies – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
-- Cloud – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
+- **Languages** - Go, Java, C#, C++, TypeScript
+- **Technologies** – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
+- **Cloud** – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
 
 ## Experience
 **Lead Software Engineer** at Digital Monitoring Products | Springfield, MO | Feb 2020 - Present 
-● Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL. 
-● Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
-Senior Software Engineer at O’Reilly Auto Parts | Springfield, MO | Oct 2003 – Feb 2020
-● Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
-● Creation of an advanced catalog system used to search and display millions o fautomotive parts. 
-Independent iPhone Developer at RetainIt | Springfield, MO | Oct 2013 – Jan 2016
-● Designed and developed a successful iPhone application, RetainIt - Organize & Todo, featured several
+- Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
+- Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
+
+**Senior Software Engineer** at O’Reilly Auto Parts | Springfield, MO | Oct 2003 – Feb 2020
+- Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
+- Creation of an advanced catalog system used to search and display millions o fautomotive parts. 
+
+**Independent iPhone Developer** at RetainIt | Springfield, MO | Oct 2013 – Jan 2016
+- Designed and developed a successful iPhone application, RetainIt - Organize & Todo, featured several
 times in the top 100 productivity apps. 
-President/Lead Developer at Playfantasy.com | Springfield, MO | Nov 2001– Jan 2004 
-● Design and development of a multi-user fantasy football website. 
-Senior Software Engineer at Sprint Corp | Kansas City, MO | Jan 2000 – Nov 2001
-● Design and development of distributed telecommunication applications. 
+
+**President/Lead Developer** at Playfantasy.com | Springfield, MO | Nov 2001– Jan 2004 
+- Design and development of a multi-user fantasy football website. 
+
+**Senior Software Engineer** at Sprint Corp | Kansas City, MO | Jan 2000 – Nov 2001
+- Design and development of distributed telecommunication applications. 
 
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
