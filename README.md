@@ -35,37 +35,61 @@
 
 ## Projects
 ***
-### Ephemeral Development Environment Platform
-Led inititive to implement ephemeral development environment platform at Digital Monitoring Products.
-- Evaluated several vendors over a six month time period in order to determine best platform for developers.
+### Ephemeral Environment Development Platform
+Led inititive to implement a **Kubernetes** ephemeral environment development platform at Digital Monitoring Products.
+- Evaluated several vendors over a six month time frame in order to determine best platform for developers.
 - Let meetings with vendors and performed several proof-of-concept trials.
 - Created white paper for executive staff on benefits on Ephemeral Environments.
-- Reduced development time by up to 50% on new features.
+- **Reduced development** time by up to 50% on new features.
 
-### Standardized Development Language
+### Standardized Go as Development Language
 Through meetings and presentations, led the Advanced Products department at Digitial Monitoring Products to use Go as the primary development language.
-- Trained junior developers on Go programming fundamentals.
-- Performed multiple presentations with management and staff on the benefits of Go programming language.
+- **Trained junior developers** on Go programming fundamentals.
+- **Performed multiple presentations** with management and staff on the benefits of Go programming language.
 
 ### Rewrite of Python backend to Go
-Successfully migrated a Python backend to Go using Gorilla Mux, AMQRPC, RabbitMQ, and Machinery
-- 
+Successfully migrated a Python backend to Go using Gorilla Mux, AMQRPC, RabbitMQ, and Machinery.
+- **Led team** of a sucessfully migration of a Python backed to Go over a six month time frame.
+- Made use of GitHub Actions, Docker, Integration and Unit tests.
+
+### Micro-Frontend Architecture
+Pushed for the use of Micro-Fronted architecture to allow multiple teams to deploys features independently.
+- Performed proof-of-concepts using **NX Monorepo**, **Module Federation**, and **Single-SPA**. 
 
 ### CI/CD Platform
-Successfully implemented CI/CD Platform at Digital Monitoring Products
+Successfully implemented CI/CD Platform at Digital Monitoring Products.
+- Installed and implemented CI/CD platform using a combination of **TeamCity** and **Octopus**.
+- Implementation is currently being used by several departments as the **standard CI/CD platform**. 
 
 ### API Gateway 
-Led inititive to select and implement a API Gateway solution at Digital Monitoring Products
+Led inititive to select and implement a API Gateway solution at Digital Monitoring Products.
+- Evaluated several vendors before choosing **HAProxy**.
+- Rewrote Python backend to Go in order to capture all API requests to a MSSQL database.
 
+### O'Reilly Auto Parts Product Catalog
+Architected new graphical parts catalog used by over **6,000** O'Reilly Auto Parts stores.
+- Initial catalog was implemented in **Java Swing** and later converted to **JavaFX**.
+- Added **predictive text search** in combination with SOLR search process to allow users to quickly find parts.
+- Created **Parts Photo Browser** allowing customers and team members to quickly see different part choices.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### O'Reilly Auto Parts Point-of-Sale
+Created point-of-sale application from the ground up using Java Swing.
+- Created **UI/UX** of all screens in new graphical point-of-sale.
+- Worked with team of off-shore developers in order to progress project.
+- Created multiple tools to speed up developement including the **FFM simulator**, which allowed frontend and backend developers to progress independently.
+- Implemented advanced **type-ahead logic** used to caputure and output typed information on screens not yet visible.
+- Created **application framework** using specialized deployment strategy in order to push changes to stores in separate packages.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### O'Reilly Auto Parts Credit Card processing
+Led development of technology to capture customer credit card information at stores using **C++**.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Productivity iPhone App
+Developed iPhone organizational application, RetainIt - Organize & To Do, over a period of two years.
+- Featured several times in the iOS Top 100 Productivity Apps.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Fantasy Sports Website
+Created multi-player fantasy sports website using custom servlet based framework, Oracle database, and PL/SQL.
+- Made use of 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
@@ -73,25 +97,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ***
 **B.S., Computer Science** | Missouri State University
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
