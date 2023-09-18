@@ -14,13 +14,11 @@
 ## About
 ***
 
-- **Team Lead** - I have successfully led multiple development teams using the latest Agile techniques.
-- **Fullstack Developer** - I am effective at developing both frontend and backend applications with a passion for UI/UX and creating highly-performant code.
-- **Craftsman** - I approach development with a high degree of craft. I am passionate about software development and developer productivity.
-- **Simplicity** - I often find the simplest way of achieving something and care deeply about long-term code readability and maintainability.
-- **Customer Centric** - I develop with the end-user in mind. Creating applications that my customers love is a top priority.
+- **Leadership** - I have successfully led multiple development teams using the latest in Agile development techniques.
+- **Craftsmanship** - I approach development with a high degree of craft. I am passionate about software development and developer productivity.
+- **Simplicity** - I often find the simplest way of achieving something and care deeply about the long-term readability and maintainability of code I work on.
 - **Communication** - I value clear, open communication and am able to communicate effectivley through presentations, code reviews, emails, and documentation. 
-- **Lifelong Learner** - I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.
+- **Lifelong Learning** - I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.
 
 ## Experience
 ***
