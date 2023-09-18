@@ -48,7 +48,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Education
-- B.S., Computer Science | Missouri State University
+** B.S., Computer Science** | Missouri State University
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
