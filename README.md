@@ -6,12 +6,9 @@
 - **Technologies** – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
 - **Cloud** – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
 
-| Employee                 | Salary |                            |
-| ------------------------ | ------ | -------------------------- |
-| [John Joe](#)            | $1     | Needs a better salary      |
-| [Jane Doe](#)            | $10K   | Blogging intern            |
-| [Joe Bloggs](#)          | $25k   | Photographer               |
-| [Jane Bloggs](#)         | $100k  | Marketer & Copywriter      |
+| Languages           |**Go, Java, C#, C++, TypeScript**     |
+| Web             | React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git            |
+| Cloud            |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize               |
 
 ***
 ## Experience
