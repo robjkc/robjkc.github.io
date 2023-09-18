@@ -25,7 +25,7 @@
 
 **Independent iPhone Developer** @ RetainIt | Oct 2013 – Jan 2016
 - Designed and developed a successful iPhone application, RetainIt - Organize & Todo.
-- Featured several times in the top 100 productivity apps. 
+- Featured in the top 100 productivity apps. 
 
 **President/Lead Developer** @ Playfantasy.com | Nov 2001– Jan 2004 
 - Design and development of a multi-user fantasy football website. 
