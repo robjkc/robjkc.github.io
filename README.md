@@ -76,7 +76,7 @@ Created custom tool in Go for development team allowing developers to quickly de
 - Made use of Telepresence, Qovery, K9s, and Kubetail.  
 - Significantly reduced development time by enabling inner-loop development.
   
-### Go Language Standardization
+### Standardized Go Development
 Through meetings and presentations, led the Advanced Products department at Digitial Monitoring Products to use Go as the primary development language.
 - Trained junior developers in Go programming fundamentals.
 - Performed multiple presentations for management and staff on the benefits of the Go programming language.
