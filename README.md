@@ -21,7 +21,7 @@
 
 **Senior Software Engineer** @ O’Reilly Auto Parts | Oct 2003 – Feb 2020
 - Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
-- Creation of an advanced catalog system used to search and display millions o fautomotive parts. 
+- Creation of an advanced catalog system used to search and display millions of automotive parts. 
 
 **Independent iPhone Developer** @ RetainIt | Oct 2013 – Jan 2016
 - Designed and developed a successful iPhone application, RetainIt - Organize & Todo.
