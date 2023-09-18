@@ -96,14 +96,11 @@ Developed iPhone organizational application, RetainIt - Organize & To Do, over a
 ### Fantasy Sports Website
 Created multi-player fantasy sports website using custom servlet based framework, **Oracle** database, and **PL/SQL**.
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ## Education
 ***
 **B.S., Computer Science** | Missouri State University
 
 ## Examples
 ***
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+![Catalog](/assets/img/projects/ips-catalog.jpg)
 
