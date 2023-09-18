@@ -64,7 +64,7 @@ Led team in development of Go/React/GraphQL application used for advanced video-
 - Led standup meetings and organized Jira kanban board and backlog.
 - Fullstack development using a Go backend and React/GraphQL frontend.
 
-### Ephemeral Environment Development Platform
+### Kubernetes Developer Platform
 Led initiative to implement a Kubernetes ephemeral environment development platform at Digital Monitoring Products.
 - Evaluated several vendors over a six month time frame in order to determine best platform for developers.
 - Led meetings with vendors and performed several proof-of-concept trials.
@@ -73,11 +73,11 @@ Led initiative to implement a Kubernetes ephemeral environment development platf
 - Reduced development time by up to 50% on new features.
 - Made open-source contribution to development platform.
 
-### Go Telepresence Tool
-Created custom tool for development team allowing developers to quickly debug applications running in Kubernetes.
+### Telepresence Debugging Tool
+Created custom tool in Go for development team allowing developers to quickly debug applications running in Kubernetes.
 - Made use of Telepresence, Qovery, K9s, and Kubetail.  
 
-### Standardized Go as Development Language
+### Standardized Go
 Through meetings and presentations, led the Advanced Products department at Digitial Monitoring Products to use Go as the primary development language.
 - Trained junior developers in Go programming fundamentals.
 - Performed multiple presentations for management and staff on the benefits of the Go programming language.
@@ -101,22 +101,22 @@ Led initiative to select and implement a API Gateway solution at Digital Monitor
 - Evaluated several vendors before choosing HAProxy.
 - Rewrote Python backend to Go in order to capture all API requests to a MSSQL database.
 
-### O'Reilly Auto Parts Product Catalog
+### Auto Parts Catalog
 Architected Java graphical parts catalog used by over 6,000 O'Reilly Auto Parts stores.
 - Initial catalog was implemented in Java Swing and later converted to JavaFX.
 - Added predictive text search in combination with SOLR search process to allow users to quickly find parts.
 - Created Parts Photo Browser allowing customers and team members to quickly see different part choices.
 
-### O'Reilly Auto Parts Point-of-Sale
-Created Java point-of-sale application from the ground up using Java Swing.
+### Auto Parts Point-of-Sale
+Created Java point-of-sale application from the ground up using Java Swing at O'Reilly Auto Parts.
 - Created UI/UX of all screens in new graphical point-of-sale.
 - Worked with team of off-shore developers in order to progress project.
 - Created multiple tools to speed up developement including the FFM simulator and Automated Profiler.
 - Implemented advanced type-ahead logic used to capture and output typed information on screens not yet visible.
 - Created application framework using specialized deployment strategy in order to push changes to stores in separate packages.
 
-### O'Reilly Auto Parts Credit Card processing
-Led development of PCI compliant technology to capture customer credit card information at stores using C++ and sockets.
+### PCI Credit Card processor
+Led development of PCI compliant technology to capture customer credit card information at stores using C++ and sockets at O'Reilly Auto Parts.
 
 ### Productivity iPhone App
 Developed iPhone organizational application, RetainIt - Organize & To Do, over a period of two years.
