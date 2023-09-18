@@ -106,10 +106,17 @@ Created multi-player fantasy sports website using custom servlet based framework
 ![Catalog](/assets/img/projects/ips-catalog.jpg)
 
 ### O'Reilly Point-of-Sale
+![Menu](/assets/img/projects/ips-menu.jpg)
 ![Point-of-Sale](/assets/img/projects/ips-oe100.jpg)
 
-### Inventory Tool
+### O'Reilly Inventory Tool
 ![Inventory](/assets/img/projects/RegionalItemAdjustments.jpg)
 
 ### Fantasy Sports Website
 ![Scores](/assets/img/projects/roster_history2.jpg)
+![Group](/assets/img/projects/group.jpg)
+
+### Autosketch
+![Autosketch](/assets/img/projects/i2.jpg)
+
+
