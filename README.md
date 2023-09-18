@@ -3,6 +3,13 @@
 ## About
 ***
 
+- Fullstack Developer - I am effictive at developing both frontend and backend applications. I have a passion for UI/UX and also implementing highly-performant backend code.
+- Craftsman - I care deeply about delivering high-quality experiences and approach development with a high degree of craft. I am passionate about tooling and developer productivity.
+- Simplicity - I often find the simplest way of achieving something. I care about the long-term readability and maintainability of codebases I work on.
+- Customer Driven - I always develop with the customer in mind. Creating applications that my customers love using is my top priority.
+- Communication - I value clear, open communication and have the ability to communicate effectivley through meetings, code reviews, emails, and documentation. 
+- Lifelong Learner - I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.
+
 ## Skills
 ***
 
@@ -44,13 +51,19 @@
 - Projects included use of Visual C++, Windows SDK, MFC, and 2D graphics.
 - Additional experience in interactive graphics techniques, and GUI design.
 
-**Software Engineer** @ Spring | Jun 1995 – Oct 1997
+**Software Engineer** @ Sprint | Jun 1995 – Oct 1997
 - Windows development team member, with responsibilities including design, development, and
 maintenance of Windows-based applications.
 - Created large backend application for multi-client FTP transfers using.
 
 ## Projects
 ***
+### Camect Video Security Application
+Led team in development of Go/React/GraphQL application used for advanced video-based security.
+- Led engineer on team of four developers implementing new features for flagship video application.
+- Led standup meetings and organized Jira kanban board and backlog.
+- Fullstack development using a Go backend and React/GraphQL frontend.
+
 ### Ephemeral Environment Development Platform
 Led initiative to implement a Kubernetes ephemeral environment development platform at Digital Monitoring Products.
 - Evaluated several vendors over a six month time frame in order to determine best platform for developers.
