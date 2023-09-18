@@ -1,8 +1,7 @@
 # Lead Software Engineer
 
-## Skills
 ***
-
+## Skills
 | ------------------------ | ------ |
 | **Languages** | Go, Java, C#, C++, TypeScript     |
 | **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize               |
@@ -12,8 +11,8 @@
 | **Processes** | Agile Project Management, SCRUM, CI/CD            |
 | **Database** | PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, SQLite            |
 
-## Experience
 ***
+## Experience
 **Lead Software Engineer** @ Digital Monitoring Products | Feb 2020 - Present 
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
@@ -32,8 +31,8 @@ times in the top 100 productivity apps.
 **Senior Software Engineer** @ Sprint Corp | Jan 2000 – Nov 2001
 - Design and development of distributed telecommunication applications. 
 
-## Projects
 ***
+## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
