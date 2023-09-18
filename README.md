@@ -9,7 +9,7 @@
 | **Web** | React, Angular, Nx, Single-SPA, REST APIs, GraphQL             |
 | **UI** | Java Swing, JavaFX, UI/UX, HTML, CSS          |
 | **Tools** | GitHub, Git, Jira, Confluence, JetBrains, VSCode            |
-| **Processes** | Agile Project Management, SCRUM, CI/CD            |
+| **Processes** | Agile Project Management, SCRUM, CI/CD, Object-Oriented Development, Design Patterns, Unit Testing            |
 | **Database** | PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, SQLite            |
 
 
@@ -36,7 +36,7 @@
 ## Projects
 ***
 ### Ephemeral Environment Development Platform
-Led inititive to implement a **Kubernetes** ephemeral environment development platform at Digital Monitoring Products.
+Led initiative to implement a **Kubernetes** ephemeral environment development platform at Digital Monitoring Products.
 - **Evaluated several vendors** over a six month time frame in order to determine best platform for developers.
 - **Led meetings** with vendors and performed several proof-of-concept trials.
 - Created **white paper** for executive staff on benefits on Ephemeral Environments.
@@ -46,12 +46,12 @@ Led inititive to implement a **Kubernetes** ephemeral environment development pl
 
 ### Go Telepresence Tool
 Created custom tool for development team allowing developers to quickly debug applications running in **Kubernetes**.
-- Mad use of **Telepresence**, **Qovery**, **K9s**, and Kubetail.  
+- Made use of **Telepresence**, **Qovery**, **K9s**, and Kubetail.  
 
 ### Standardized Go as Development Language
 Through meetings and presentations, led the Advanced Products department at Digitial Monitoring Products to use Go as the primary development language.
-- **Trained junior developers** on Go programming fundamentals.
-- **Performed multiple presentations** with management and staff on the benefits of Go programming language.
+- **Trained junior developers** in Go programming fundamentals.
+- **Performed multiple presentations** for management and staff on the benefits of the Go programming language.
 
 ### Rewrite of Python backend to Go
 Successfully migrated a Python backend to Go using **Gorilla Mux**, **AMQ-RPC**, **RabbitMQ**, and **Machinery**.
@@ -68,7 +68,7 @@ Successfully implemented CI/CD Platform at Digital Monitoring Products.
 - Implementation is currently being used by several departments as the **standard CI/CD platform**. 
 
 ### API Gateway 
-Led inititive to select and implement a API Gateway solution at Digital Monitoring Products.
+Led initiative to select and implement a API Gateway solution at Digital Monitoring Products.
 - Evaluated several vendors before choosing **HAProxy**.
 - Rewrote **Python** backend to **Go** in order to capture all API requests to a MSSQL database.
 
@@ -83,7 +83,7 @@ Created point-of-sale application from the ground up using **Java Swing**.
 - Created **UI/UX** of all screens in new graphical point-of-sale.
 - Worked with team of off-shore developers in order to progress project.
 - Created multiple tools to speed up developement including the **FFM simulator**, which allowed frontend and backend developers to progress independently.
-- Implemented advanced **type-ahead logic** used to caputure and output typed information on screens not yet visible.
+- Implemented advanced **type-ahead logic** used to capture and output typed information on screens not yet visible.
 - Created **application framework** using specialized deployment strategy in order to push changes to stores in separate packages.
 
 ### O'Reilly Auto Parts Credit Card processing
