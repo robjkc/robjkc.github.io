@@ -24,8 +24,8 @@
 - Creation of an advanced catalog system used to search and display millions o fautomotive parts. 
 
 **Independent iPhone Developer** @ RetainIt | Oct 2013 – Jan 2016
-- Designed and developed a successful iPhone application, RetainIt - Organize & Todo, featured several
-times in the top 100 productivity apps. 
+- Designed and developed a successful iPhone application, RetainIt - Organize & Todo.
+- Featured several times in the top 100 productivity apps. 
 
 **President/Lead Developer** @ Playfantasy.com | Nov 2001– Jan 2004 
 - Design and development of a multi-user fantasy football website. 
