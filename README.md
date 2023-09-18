@@ -5,6 +5,7 @@
 - **Technologies** – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
 - **Cloud** – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
 
+***
 ## Experience
 **Lead Software Engineer** at Digital Monitoring Products | Feb 2020 - Present 
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
@@ -24,6 +25,7 @@ times in the top 100 productivity apps.
 **Senior Software Engineer** at Sprint Corp | Jan 2000 – Nov 2001
 - Design and development of distributed telecommunication applications. 
 
+***
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
