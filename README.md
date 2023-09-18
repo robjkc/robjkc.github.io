@@ -73,13 +73,13 @@ Led initiative to select and implement a API Gateway solution at Digital Monitor
 - Rewrote **Python** backend to **Go** in order to capture all API requests to a MSSQL database.
 
 ### O'Reilly Auto Parts Product Catalog
-Architected new graphical parts catalog used by over **6,000** O'Reilly Auto Parts stores.
+Architected **Java** graphical parts catalog used by over **6,000** O'Reilly Auto Parts stores.
 - Initial catalog was implemented in **Java Swing** and later converted to **JavaFX**.
 - Added **predictive text search** in combination with SOLR search process to allow users to quickly find parts.
 - Created **Parts Photo Browser** allowing customers and team members to quickly see different part choices.
 
 ### O'Reilly Auto Parts Point-of-Sale
-Created point-of-sale application from the ground up using **Java Swing**.
+Created **Java** point-of-sale application from the ground up using **Java Swing**.
 - Created **UI/UX** of all screens in new graphical point-of-sale.
 - Worked with team of off-shore developers in order to progress project.
 - Created multiple tools to speed up developement including the **FFM simulator**, which allowed frontend and backend developers to progress independently.
@@ -87,7 +87,7 @@ Created point-of-sale application from the ground up using **Java Swing**.
 - Created **application framework** using specialized deployment strategy in order to push changes to stores in separate packages.
 
 ### O'Reilly Auto Parts Credit Card processing
-Led development of **PCI** compliant technology to capture customer credit card information at stores using **C++** and **sockets**.
+Led development of **PCI compliant** technology to capture customer credit card information at stores using **C++** and **sockets**.
 
 ### Productivity iPhone App
 Developed iPhone organizational application, RetainIt - Organize & To Do, over a period of two years.
