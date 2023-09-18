@@ -1,17 +1,5 @@
 # Lead Software Engineer
 
-## About
-***
-
-| **Team Lead** | I have successfully led multiple development teams using the latest techniques in Agile development.|
-| **Fullstack Developer** | I am effective at developing both frontend and backend applications. I have a passion for UI/UX and also implementing highly-performant backend code.|
-| **Craftsman** | I care deeply about delivering high-quality experiences and approach development with a high degree of craft. I am passionate about tooling and developer productivity.|
-| **Simplicity** | I often find the simplest way of achieving something. I care about the long-term readability and maintainability of codebases I work on.|
-| **Customer Driven** | I always develop with the customer in mind. Creating applications that my customers love using is my top priority.|
-| **Communication** | I value clear, open communication and have the ability to communicate effectivley through meetings, code reviews, emails, and documentation. |
-| **Lifelong Learner** | I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.|
-
-
 ## Skills
 ***
 
@@ -23,6 +11,16 @@
 | **Processes** | Agile Project Management, SCRUM, CI/CD, Object-Oriented Development, Design Patterns, Unit Testing            |
 | **Database** | PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, SQLite            |
 
+## About
+***
+
+| **Team Lead** | I have successfully led multiple development teams using the latest Agile techniques.|
+| **Fullstack Developer** | I am effective at developing both frontend and backend applications with a passion for UI/UX and creating highly-performant code.|
+| **Craftsman** | I approach development with a high degree of craft. I am passionate about software development and developer productivity.|
+| **Simplicity** | I often find the simplest way of achieving something and care deeply about the long-term code readability and maintainability.|
+| **Customer Driven** | I develop with the end-user in mind. Creating applications that my customers love is a top priority.|
+| **Communication** | I value clear, open communication and am able to communicate effectivley through presentations, code reviews, emails, and documentation. |
+| **Lifelong Learner** | I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.|
 
 ## Experience
 ***
