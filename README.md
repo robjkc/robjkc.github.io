@@ -40,6 +40,7 @@ Led inititive to implement a **Kubernetes** ephemeral environment development pl
 - Evaluated several vendors over a six month time frame in order to determine best platform for developers.
 - Let meetings with vendors and performed several proof-of-concept trials.
 - Created white paper for executive staff on benefits on Ephemeral Environments.
+- Containerized **React** front-end, **GraphQL** backend, and several **Go services** using **Docker**.
 - **Reduced development** time by up to 50% on new features.
 
 ### Standardized Go as Development Language
@@ -48,7 +49,7 @@ Through meetings and presentations, led the Advanced Products department at Digi
 - **Performed multiple presentations** with management and staff on the benefits of Go programming language.
 
 ### Rewrite of Python backend to Go
-Successfully migrated a Python backend to Go using Gorilla Mux, AMQRPC, RabbitMQ, and Machinery.
+Successfully migrated a Python backend to Go using **Gorilla Mux**, **AMQ-RPC**, **RabbitMQ**, and **Machinery**.
 - **Led team** of a sucessfully migration of a Python backed to Go over a six month time frame.
 - Made use of GitHub Actions, Docker, Integration and Unit tests.
 
