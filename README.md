@@ -3,9 +3,9 @@
 ## Skills
 ***
 
-| **Languages** | Go, Java, C#, C++, TypeScript     |
+| **Languages** | Go, Java, C#, C++, Dart, TypeScript     |
 | **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize, Qovery               |
-| **Web** | React, Angular, Nx, Single-SPA, REST APIs, GraphQL             |
+| **Web** | React, Angular, Flutter, Nx, Single-SPA, REST APIs, GraphQL             |
 | **UI** | Java Swing, JavaFX, UI/UX, HTML, CSS          |
 | **Tools** | GitHub, Git, Jira, Confluence, JetBrains, VSCode, ChatGPT            |
 | **Processes** | Agile Project Management, SCRUM, CI/CD, Object-Oriented Development, Design Patterns, Unit Testing            |
