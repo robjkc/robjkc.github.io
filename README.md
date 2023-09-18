@@ -2,16 +2,16 @@
 
 ## Skills
 ***
-- Languages - **Go, Java, C#, C++, TypeScript**
-- **Technologies** – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
-- **Cloud** – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
 
-| Languages           |**Go, Java, C#, C++, TypeScript**     |
-| Web             | React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git            |
-| Cloud            |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize               |
+| **Languages** | Go, Java, C#, C++, TypeScript     |
+| **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize               |
+| **Web** | React, Angular, Nx, HTML, CSS, UI/UX, Single-SPA, REST APIs, GraphQL, Git            |
+| **UI** | Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git            |
+| **Tools** | Agile Project Management, Jira, Confluence, JetBrains, VSCode            |
+| **Daatabase** | PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, , Git            |
 
-***
 ## Experience
+***
 **Lead Software Engineer** at Digital Monitoring Products | Feb 2020 - Present 
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
@@ -30,8 +30,8 @@ times in the top 100 productivity apps.
 **Senior Software Engineer** at Sprint Corp | Jan 2000 – Nov 2001
 - Design and development of distributed telecommunication applications. 
 
-***
 ## Projects
+***
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
