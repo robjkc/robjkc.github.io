@@ -5,7 +5,7 @@
 ***
 
 | **Languages** | Go, Java, C#, C++, TypeScript     |
-| **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize               |
+| **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize, Qovery               |
 | **Web** | React, Angular, Nx, Single-SPA, REST APIs, GraphQL             |
 | **UI** | Java Swing, JavaFX, UI/UX, HTML, CSS          |
 | **Tools** | GitHub, Git, Jira, Confluence, JetBrains, VSCode            |
