@@ -1,5 +1,7 @@
 # Lead Software Engineer
 
+## About
+***
 
 ## Skills
 ***
@@ -30,71 +32,85 @@
 **President/Lead Developer** @ Playfantasy.com | Nov 2001– Jan 2004 
 - Design and development of a multi-user fantasy football website. 
 
-**Senior Software Engineer** @ Sprint Corp | Jan 2000 – Nov 2001
+**Senior Software Engineer** @ Sprint | Jan 2000 – Nov 2001
 - Design and development of distributed telecommunication applications. 
+
+**Lead Software Engineer** @ Butler Manufacturing | Apr 1999 – Jan 2000
+- Design and development of large scale client/server applications.
+- Lead technical architect for team of four developers.
+
+**Software Engineer** @ Autodesk | Oct 1997 – Apr 1999
+- Design and development of commercial Windows CAD applications.
+- Projects included use of Visual C++, Windows SDK, MFC, and 2D graphics.
+- Additional experience in interactive graphics techniques, and GUI design.
+
+**Software Engineer** @ Spring | Jun 1995 – Oct 1997
+- Windows development team member, with responsibilities including design, development, and
+maintenance of Windows-based applications.
+- Created large backend application for multi-client FTP transfers using.
 
 ## Projects
 ***
 ### Ephemeral Environment Development Platform
-Led initiative to implement a **Kubernetes** ephemeral environment development platform at Digital Monitoring Products.
-- **Evaluated several vendors** over a six month time frame in order to determine best platform for developers.
-- **Led meetings** with vendors and performed several proof-of-concept trials.
-- Created **white paper** for executive staff on benefits on Ephemeral Environments.
-- Containerized **React** front-end, **GraphQL** backend, and several **Go services** using **Docker**.
-- **Reduced development** time by up to 50% on new features.
-- Made **open-source** contribution to development platform.
+Led initiative to implement a Kubernetes ephemeral environment development platform at Digital Monitoring Products.
+- Evaluated several vendors over a six month time frame in order to determine best platform for developers.
+- Led meetings with vendors and performed several proof-of-concept trials.
+- Created white paper for executive staff on benefits on Ephemeral Environments.
+- Containerized React front-end, GraphQL backend, and several Go services using Docker.
+- Reduced development time by up to 50% on new features.
+- Made open-source contribution to development platform.
 
 ### Go Telepresence Tool
-Created custom tool for development team allowing developers to quickly debug applications running in **Kubernetes**.
-- Made use of **Telepresence**, **Qovery**, **K9s**, and Kubetail.  
+Created custom tool for development team allowing developers to quickly debug applications running in Kubernetes.
+- Made use of Telepresence, Qovery, K9s, and Kubetail.  
 
 ### Standardized Go as Development Language
 Through meetings and presentations, led the Advanced Products department at Digitial Monitoring Products to use Go as the primary development language.
-- **Trained junior developers** in Go programming fundamentals.
-- **Performed multiple presentations** for management and staff on the benefits of the Go programming language.
+- Trained junior developers in Go programming fundamentals.
+- Performed multiple presentations for management and staff on the benefits of the Go programming language.
 
 ### Rewrite of Python backend to Go
-Successfully migrated a Python backend to Go using **Gorilla Mux**, **AMQ-RPC**, **RabbitMQ**, and **Machinery**.
-- **Led team** of a sucessfully migration of a **Python backed to Go** over a six month time frame.
-- Made use of **GitHub Actions**, Docker, Integration and Unit tests.
+Successfully migrated a Python backend to Go using Gorilla Mux, AMQ-RPC, RabbitMQ, and Machinery.
+- Led team of a sucessfully migration of a Python backed to Go over a six month time frame.
+- Made use of GitHub Actions, Docker, Integration and Unit tests.
 
 ### Micro-Frontend Architecture
 Pushed for the use of Micro-Fronted architecture to allow multiple teams to deploys features independently.
-- Performed proof-of-concepts using **NX Monorepo**, **Module Federation**, and **Single-SPA**. 
+- Performed proof-of-concepts using NX Monorepo, Module Federation, and Single-SPA. 
 
 ### CI/CD Platform
 Successfully implemented CI/CD Platform at Digital Monitoring Products.
-- Installed and implemented CI/CD platform using a combination of **TeamCity** and **Octopus**.
-- Implementation is currently being used by several departments as the **standard CI/CD platform**. 
+- Installed and implemented CI/CD platform using a combination of TeamCity and Octopus.
+- Implementation is currently being used by several departments as the standard CI/CD platform. 
 
 ### API Gateway 
 Led initiative to select and implement a API Gateway solution at Digital Monitoring Products.
-- Evaluated several vendors before choosing **HAProxy**.
-- Rewrote **Python** backend to **Go** in order to capture all API requests to a MSSQL database.
+- Evaluated several vendors before choosing HAProxy.
+- Rewrote Python backend to Go in order to capture all API requests to a MSSQL database.
 
 ### O'Reilly Auto Parts Product Catalog
-Architected **Java** graphical parts catalog used by over **6,000** O'Reilly Auto Parts stores.
-- Initial catalog was implemented in **Java Swing** and later converted to **JavaFX**.
-- Added **predictive text search** in combination with SOLR search process to allow users to quickly find parts.
-- Created **Parts Photo Browser** allowing customers and team members to quickly see different part choices.
+Architected Java graphical parts catalog used by over 6,000 O'Reilly Auto Parts stores.
+- Initial catalog was implemented in Java Swing and later converted to JavaFX.
+- Added predictive text search in combination with SOLR search process to allow users to quickly find parts.
+- Created Parts Photo Browser allowing customers and team members to quickly see different part choices.
 
 ### O'Reilly Auto Parts Point-of-Sale
-Created **Java** point-of-sale application from the ground up using **Java Swing**.
-- Created **UI/UX** of all screens in new graphical point-of-sale.
+Created Java point-of-sale application from the ground up using Java Swing.
+- Created UI/UX of all screens in new graphical point-of-sale.
 - Worked with team of off-shore developers in order to progress project.
-- Created multiple tools to speed up developement including the **FFM simulator** and **Automated Profiler**.
-- Implemented advanced **type-ahead logic** used to capture and output typed information on screens not yet visible.
-- Created **application framework** using specialized deployment strategy in order to push changes to stores in separate packages.
+- Created multiple tools to speed up developement including the FFM simulator and Automated Profiler.
+- Implemented advanced type-ahead logic used to capture and output typed information on screens not yet visible.
+- Created application framework using specialized deployment strategy in order to push changes to stores in separate packages.
 
 ### O'Reilly Auto Parts Credit Card processing
-Led development of **PCI compliant** technology to capture customer credit card information at stores using **C++** and **sockets**.
+Led development of PCI compliant technology to capture customer credit card information at stores using C++ and sockets.
 
 ### Productivity iPhone App
 Developed iPhone organizational application, RetainIt - Organize & To Do, over a period of two years.
-- Featured several times in the iOS **Top 100 Productivity Apps**.
+- Featured several times in the iOS Top 100 Productivity Apps.
 
 ### Fantasy Sports Website
-Created multi-player fantasy sports website using custom servlet based framework, **Oracle** database, and **PL/SQL**.
+Created multi-player fantasy sports website using custom servlet based framework, Oracle database, and PL/SQL.
 
 ## Education
 ***
