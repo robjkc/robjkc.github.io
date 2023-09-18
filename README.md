@@ -14,22 +14,22 @@
 
 ## Experience
 ***
-**Lead Software Engineer** at Digital Monitoring Products | Feb 2020 - Present 
+**Lead Software Engineer** @ Digital Monitoring Products | Feb 2020 - Present 
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
 
-**Senior Software Engineer** at O’Reilly Auto Parts | Oct 2003 – Feb 2020
+**Senior Software Engineer** @ O’Reilly Auto Parts | Oct 2003 – Feb 2020
 - Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
 - Creation of an advanced catalog system used to search and display millions o fautomotive parts. 
 
-**Independent iPhone Developer** at RetainIt | Oct 2013 – Jan 2016
+**Independent iPhone Developer** @ RetainIt | Oct 2013 – Jan 2016
 - Designed and developed a successful iPhone application, RetainIt - Organize & Todo, featured several
 times in the top 100 productivity apps. 
 
-**President/Lead Developer** at Playfantasy.com | Nov 2001– Jan 2004 
+**President/Lead Developer** @ Playfantasy.com | Nov 2001– Jan 2004 
 - Design and development of a multi-user fantasy football website. 
 
-**Senior Software Engineer** at Sprint Corp | Jan 2000 – Nov 2001
+**Senior Software Engineer** @ Sprint Corp | Jan 2000 – Nov 2001
 - Design and development of distributed telecommunication applications. 
 
 ## Projects
