@@ -3,12 +3,13 @@
 ## About
 ***
 
-- Fullstack Developer - I am effictive at developing both frontend and backend applications. I have a passion for UI/UX and also implementing highly-performant backend code.
-- Craftsman - I care deeply about delivering high-quality experiences and approach development with a high degree of craft. I am passionate about tooling and developer productivity.
-- Simplicity - I often find the simplest way of achieving something. I care about the long-term readability and maintainability of codebases I work on.
-- Customer Driven - I always develop with the customer in mind. Creating applications that my customers love using is my top priority.
-- Communication - I value clear, open communication and have the ability to communicate effectivley through meetings, code reviews, emails, and documentation. 
-- Lifelong Learner - I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.
+| **Fullstack Developer** | I am effictive at developing both frontend and backend applications. I have a passion for UI/UX and also implementing highly-performant backend code.|
+| **Craftsman** | I care deeply about delivering high-quality experiences and approach development with a high degree of craft. I am passionate about tooling and developer productivity.|
+| **Simplicity** | I often find the simplest way of achieving something. I care about the long-term readability and maintainability of codebases I work on.|
+| **Customer Driven** | I always develop with the customer in mind. Creating applications that my customers love using is my top priority.|
+| **Communication** | I value clear, open communication and have the ability to communicate effectivley through meetings, code reviews, emails, and documentation. |
+| **Lifelong Learner** | I learn quickly and can operate independently. I am not afraid to take something on just because I don't know how to do it yet.|
+
 
 ## Skills
 ***
