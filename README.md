@@ -4,7 +4,7 @@
 ***
 
 | **Team Lead** | I have successfully led multiple development teams using the latest techniques in Agile development.|
-| **Fullstack Development** | I am effective at developing both frontend and backend applications. I have a passion for UI/UX and also implementing highly-performant backend code.|
+| **Fullstack Developer** | I am effective at developing both frontend and backend applications. I have a passion for UI/UX and also implementing highly-performant backend code.|
 | **Craftsman** | I care deeply about delivering high-quality experiences and approach development with a high degree of craft. I am passionate about tooling and developer productivity.|
 | **Simplicity** | I often find the simplest way of achieving something. I care about the long-term readability and maintainability of codebases I work on.|
 | **Customer Driven** | I always develop with the customer in mind. Creating applications that my customers love using is my top priority.|
