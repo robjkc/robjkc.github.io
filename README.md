@@ -1,6 +1,7 @@
 # Lead Software Engineer
 
-## Skills ***
+## Skills
+***
 - Languages - **Go, Java, C#, C++, TypeScript**
 - **Technologies** – React, Angular, Nx, HTML, CSS, Java Swing, JavaFX, UI/UX, Single-SPA, Agile Project Management, Jira, Confluence, PostgreSQL, MySQL, MSSQL, RabbitMQ, Oracle, REST APIs, Git
 - **Cloud** – Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize
