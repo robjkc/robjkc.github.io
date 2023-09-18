@@ -1,8 +1,7 @@
 # Lead Software Engineer
 
-## Skills
-***
-
+| Skills                 |                            |
+| ------------------------ | -------------------------- |
 | **Languages** | Go, Java, C#, C++, TypeScript     |
 | **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, Kustomize               |
 | **Web** | React, Angular, Nx, HTML, CSS, UI/UX, Single-SPA, REST APIs, GraphQL, Git            |
