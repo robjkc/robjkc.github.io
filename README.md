@@ -113,9 +113,8 @@ Created multi-player fantasy sports website using custom servlet based framework
 ![Inventory](/assets/img/projects/RegionalItemAdjustments.jpg)
 
 ### iPhone App
-![Notebooks](/assets/img/projects/retainit1.jpeg)
-![Todos](/assets/img/projects/retainit2.jpeg)
-![Home](/assets/img/projects/retainit3.jpeg)
+![Projects](/assets/img/projects/retainit-project.png)
+![Home](/assets/img/projects/retainit-home.png)
 
 ### Fantasy Sports Website
 ![Scores](/assets/img/projects/roster_history2.jpg)
