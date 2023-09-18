@@ -100,7 +100,16 @@ Created multi-player fantasy sports website using custom servlet based framework
 ***
 **B.S., Computer Science** | Missouri State University
 
-## Examples
+## Example Work
 ***
+### O'Reilly Catalog
 ![Catalog](/assets/img/projects/ips-catalog.jpg)
 
+### O'Reilly Point-of-Sale
+![Point-of-Sale](/assets/img/projects/ips-oe100.jpg)
+
+### Inventory Tool
+![Inventory](/assets/img/projects/RegionalItemAdjustments.jpg)
+
+### Fantasy Sports Website
+![Scores](/assets/img/projects/roster_history2.jpg)
