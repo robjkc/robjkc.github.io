@@ -82,9 +82,9 @@ Through meetings and presentations, led the Advanced Products department at Digi
 - Trained junior developers in Go programming fundamentals.
 - Performed multiple presentations for management and staff on the benefits of the Go programming language.
 
-### Rewrite of Python backend to Go
+### Python to Go rewrite
 Successfully migrated a Python backend to Go using Gorilla Mux, AMQ-RPC, RabbitMQ, and Machinery.
-- Led team of a sucessfully migration of a Python backed to Go over a six month time frame.
+- Led team of a sucessfully migration of a Python backed to Go over a six month time-frame.
 - Made use of GitHub Actions, Docker, Integration and Unit tests.
 
 ### Micro-Frontend Architecture
