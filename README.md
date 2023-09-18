@@ -2,7 +2,7 @@
 
 ***
 ## Skills
-| ------------------------ | ------ |
+
 | **Languages** | Go, Java, C#, C++, TypeScript     |
 | **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize               |
 | **Web** | React, Angular, Nx, Single-SPA, REST APIs, GraphQL             |
