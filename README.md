@@ -59,24 +59,23 @@ maintenance of Windows-based applications.
 ## Projects
 ***
 ### Camect Video Security Application
-Led team in development of Go/React/GraphQL application used for advanced video-based security.
+Led team in development of Go/React/GraphQL application used for advanced video-based security at Digital Monitoring Products.
 - Led engineer on team of four developers implementing new features for flagship video application.
-- Led standup meetings and organized Jira kanban board and backlog.
+- Led standup meetings, assigned tasks, and organized Jira kanban board.
 - Fullstack development using a Go backend and React/GraphQL frontend.
 
 ### Kubernetes Developer Platform
-Led initiative to implement a Kubernetes ephemeral environment development platform at Digital Monitoring Products.
+Led initiative to implement a Kubernetes-based development platform at Digital Monitoring Products.
 - Evaluated several vendors over a six month time frame in order to determine best platform for developers.
 - Led meetings with vendors and performed several proof-of-concept trials.
 - Created white paper for executive staff on benefits on Ephemeral Environments.
 - Containerized React front-end, GraphQL backend, and several Go services using Docker.
-- Reduced development time by up to 50% on new features.
-- Made open-source contribution to development platform.
 
 ### Telepresence Debugging Tool
 Created custom tool in Go for development team allowing developers to quickly debug applications running in Kubernetes.
 - Made use of Telepresence, Qovery, K9s, and Kubetail.  
-
+- Significantly reduced development time by enabling inner-loop development.
+  
 ### Standardized Go
 Through meetings and presentations, led the Advanced Products department at Digitial Monitoring Products to use Go as the primary development language.
 - Trained junior developers in Go programming fundamentals.
