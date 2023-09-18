@@ -82,7 +82,7 @@ Architected **Java** graphical parts catalog used by over **6,000** O'Reilly Aut
 Created **Java** point-of-sale application from the ground up using **Java Swing**.
 - Created **UI/UX** of all screens in new graphical point-of-sale.
 - Worked with team of off-shore developers in order to progress project.
-- Created multiple tools to speed up developement including the **FFM simulator**, which allowed frontend and backend developers to progress independently.
+- Created multiple tools to speed up developement including the **FFM simulator** and **Automated Profiler**.
 - Implemented advanced **type-ahead logic** used to capture and output typed information on screens not yet visible.
 - Created **application framework** using specialized deployment strategy in order to push changes to stores in separate packages.
 
