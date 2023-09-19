@@ -30,11 +30,7 @@
 - Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
 - Creation of an advanced catalog system used to search and display millions of automotive parts. 
 
-**Independent iPhone Developer** @ RetainIt | Oct 2013 – Jan 2016
-- Designed and developed a successful iPhone application, RetainIt - Organize & Todo.
-- Featured in the top 100 productivity apps. 
-
-**President/Lead Developer** @ Playfantasy.com | Nov 2001– Jan 2004 
+**President/Lead Developer** @ Playfantasy.com | Nov 2001– Oct 2003 
 - Design and development of a multi-user fantasy football website. 
 
 **Senior Software Engineer** @ Sprint | Jan 2000 – Nov 2001
