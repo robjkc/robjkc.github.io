@@ -1,4 +1,4 @@
-# Lead Software Engineer
+# Software Engineer
 
 ## Skills
 ***
@@ -22,7 +22,7 @@
 
 ## Experience
 ***
-**Lead Software Engineer** @ Digital Monitoring Products | Feb 2020 - Present 
+**Software Engineer** @ Digital Monitoring Products | Feb 2020 - Present 
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
 
