@@ -4,7 +4,7 @@
 ***
 
 | **Languages** | Go, Java, C#, C++, Dart, TypeScript     |
-| **Cloud** |  Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize, Qovery               |
+| **Cloud** |  Azure, Kubernetes (k8s), Telepresence, Rancher, AWS, Tilt, Docker, New Relic, Kustomize, Qovery               |
 | **Web** | React, Angular, Flutter, Nx, Single-SPA, REST APIs, GraphQL             |
 | **UI** | Java Swing, JavaFX, UI/UX, HTML, CSS          |
 | **Tools** | GitHub, Git, Jira, Confluence, JetBrains, VSCode, ChatGPT            |
@@ -22,7 +22,14 @@
 
 ## Experience
 ***
-**Software Engineer** @ Digital Monitoring Products | Feb 2020 - Present 
+**Senior Software Engineer / Project Manager** @ FIS Global | Nov 2023 - Present
+- Development of large-scale commercial financial applications utilizing Java, Angular, and SQL.
+- Led efforts to integrate GitHub Copilot into the development workflow, authoring a comprehensive
+business use case outlining productivity gains, code quality improvements, and ROI.
+- Directed cross-functional teams through major cloud migration initiatives, including creating detailed
+project plans, establishing timelines, and providing regular progress updates to senior management. 
+
+**Software Engineer** @ Digital Monitoring Products | Feb 2020 - Nov 2023
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
 
