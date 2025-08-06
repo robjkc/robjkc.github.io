@@ -40,6 +40,23 @@ project plans, establishing timelines, and providing regular progress updates to
 **President/Lead Developer** @ Playfantasy.com | Nov 2001– Oct 2003 
 - Design and development of a multi-user fantasy football website. 
 
+**Senior Software Engineer** @ Sprint | Jan 2000 – Nov 2001
+- Design and development of distributed telecommunication applications. 
+
+**Lead Software Engineer** @ Butler Manufacturing | Apr 1999 – Jan 2000
+- Design and development of large scale client/server applications.
+- Lead technical architect for team of four developers.
+
+**Software Engineer** @ Autodesk | Oct 1997 – Apr 1999
+- Design and development of commercial Windows CAD applications.
+- Projects included use of Visual C++, Windows SDK, MFC, and 2D graphics.
+- Additional experience in interactive graphics techniques, and GUI design.
+
+**Software Engineer** @ Sprint | Jun 1995 – Oct 1997
+- Windows development team member, with responsibilities including design, development, and
+maintenance of Windows-based applications.
+- Created large backend application for multi-client FTP transfers using.
+
 ## Projects
 ***
 ### Camect Video Security Application
