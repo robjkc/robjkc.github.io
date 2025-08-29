@@ -33,7 +33,7 @@ project plans, establishing timelines, and providing regular progress updates to
 - Lead Engineer developing video-based security applications utilizing Go, React, and GraphQL.
 - Led several initiatives including implementation of a CI/CD workflow, API Gateway, and Kubernetes developer platform. 
 
-**Senior Software Engineer** @ O’Reilly Auto Parts | Oct 2003 – Feb 2020
+**Software Architect** @ O’Reilly Auto Parts | Oct 2003 – Feb 2020
 - Lead architect and developer for Java graphical point-of-sale application deployed to over 4,000 stores. 
 - Creation of an advanced catalog system used to search and display millions of automotive parts. 
 
